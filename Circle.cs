@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project
 {
-    internal class Circle
+    internal class Circle : Shape
     {
         protected double radius;
 
