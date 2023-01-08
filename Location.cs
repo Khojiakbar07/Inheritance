@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project
 {
-    internal class Location
+    internal class Location : Shape
     {
         private double x;
         private double y;
