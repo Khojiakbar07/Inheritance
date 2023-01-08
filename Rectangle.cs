@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project
 {
-    internal class Rectangle  
+    internal class Rectangle : Shape 
     {
         protected double side1;
         protected double side2;
